@@ -1,0 +1,162 @@
+C:\Users\Maria\Desktop\Trabajando\2Dam\DataSetProvincias\PresentacionDataSet\bin\Debug\PresentacionDataSet.exe.config
+C:\Users\Maria\Desktop\Trabajando\2Dam\DataSetProvincias\PresentacionDataSet\bin\Debug\PresentacionDataSet.exe
+C:\Users\Maria\Desktop\Trabajando\2Dam\DataSetProvincias\PresentacionDataSet\bin\Debug\PresentacionDataSet.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\DataSetProvincias\PresentacionDataSet\bin\Debug\CapaDatosDSet.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\DataSetProvincias\PresentacionDataSet\bin\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\DataSetProvincias\PresentacionDataSet\bin\Debug\CapaDatosDSet.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\DataSetProvincias\PresentacionDataSet\bin\Debug\CapaDatosDSet.dll.config
+C:\Users\Maria\Desktop\Trabajando\2Dam\DataSetProvincias\PresentacionDataSet\bin\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Trabajando\2Dam\DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.Form1.resources
+C:\Users\Maria\Desktop\Trabajando\2Dam\DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.Properties.Resources.resources
+C:\Users\Maria\Desktop\Trabajando\2Dam\DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Trabajando\2Dam\DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.CopyComplete
+C:\Users\Maria\Desktop\Trabajando\2Dam\DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.exe
+C:\Users\Maria\Desktop\Trabajando\2Dam\DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.pdb
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\00 DataSetProvincias\PresentacionDataSet\bin\Debug\PresentacionDataSet.exe.config
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\00 DataSetProvincias\PresentacionDataSet\bin\Debug\PresentacionDataSet.exe
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\00 DataSetProvincias\PresentacionDataSet\bin\Debug\PresentacionDataSet.pdb
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\00 DataSetProvincias\PresentacionDataSet\bin\Debug\CapaDatosDSet.dll
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\00 DataSetProvincias\PresentacionDataSet\bin\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\00 DataSetProvincias\PresentacionDataSet\bin\Debug\CapaDatosDSet.pdb
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\00 DataSetProvincias\PresentacionDataSet\bin\Debug\CapaDatosDSet.dll.config
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\00 DataSetProvincias\PresentacionDataSet\bin\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\00 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\00 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.Form1.resources
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\00 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.Properties.Resources.resources
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\00 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\00 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.CopyComplete
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\00 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.exe
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\00 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.pdb
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\04 DataSetProvincias\PresentacionDataSet\bin\Debug\PresentacionDataSet.exe.config
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\04 DataSetProvincias\PresentacionDataSet\bin\Debug\PresentacionDataSet.exe
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\04 DataSetProvincias\PresentacionDataSet\bin\Debug\PresentacionDataSet.pdb
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\04 DataSetProvincias\PresentacionDataSet\bin\Debug\CapaDatosDSet.dll
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\04 DataSetProvincias\PresentacionDataSet\bin\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\04 DataSetProvincias\PresentacionDataSet\bin\Debug\CapaDatosDSet.pdb
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\04 DataSetProvincias\PresentacionDataSet\bin\Debug\CapaDatosDSet.dll.config
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\04 DataSetProvincias\PresentacionDataSet\bin\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\04 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\04 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.Form1.resources
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\04 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.Properties.Resources.resources
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\04 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\04 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.CopyComplete
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\04 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.exe
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\04 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\04 DataSetProvincias\PresentacionDataSet\bin\Debug\PresentacionDataSet.exe.config
+C:\Users\Maria\Desktop\Trabajando\2Dam\04 DataSetProvincias\PresentacionDataSet\bin\Debug\PresentacionDataSet.exe
+C:\Users\Maria\Desktop\Trabajando\2Dam\04 DataSetProvincias\PresentacionDataSet\bin\Debug\PresentacionDataSet.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\04 DataSetProvincias\PresentacionDataSet\bin\Debug\CapaDatosDSet.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\04 DataSetProvincias\PresentacionDataSet\bin\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\04 DataSetProvincias\PresentacionDataSet\bin\Debug\CapaDatosDSet.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\04 DataSetProvincias\PresentacionDataSet\bin\Debug\CapaDatosDSet.dll.config
+C:\Users\Maria\Desktop\Trabajando\2Dam\04 DataSetProvincias\PresentacionDataSet\bin\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\04 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Trabajando\2Dam\04 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.Form1.resources
+C:\Users\Maria\Desktop\Trabajando\2Dam\04 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.Properties.Resources.resources
+C:\Users\Maria\Desktop\Trabajando\2Dam\04 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Trabajando\2Dam\04 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.CopyComplete
+C:\Users\Maria\Desktop\Trabajando\2Dam\04 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.exe
+C:\Users\Maria\Desktop\Trabajando\2Dam\04 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.pdb
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\05 DataSetProvincias\PresentacionDataSet\bin\Debug\PresentacionDataSet.exe.config
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\05 DataSetProvincias\PresentacionDataSet\bin\Debug\PresentacionDataSet.exe
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\05 DataSetProvincias\PresentacionDataSet\bin\Debug\PresentacionDataSet.pdb
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\05 DataSetProvincias\PresentacionDataSet\bin\Debug\CapaDatosDSet.dll
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\05 DataSetProvincias\PresentacionDataSet\bin\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\05 DataSetProvincias\PresentacionDataSet\bin\Debug\CapaDatosDSet.pdb
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\05 DataSetProvincias\PresentacionDataSet\bin\Debug\CapaDatosDSet.dll.config
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\05 DataSetProvincias\PresentacionDataSet\bin\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\05 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\05 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.Form1.resources
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\05 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.Properties.Resources.resources
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\05 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\05 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.CopyComplete
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\05 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.exe
+C:\Users\Maria\Desktop\Trabajando\Acceso Datos\05 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.pdb
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Apuntes\Proyectos para teoría\05 DataSetProvincias\PresentacionDataSet\bin\Debug\PresentacionDataSet.exe.config
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Apuntes\Proyectos para teoría\05 DataSetProvincias\PresentacionDataSet\bin\Debug\PresentacionDataSet.exe
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Apuntes\Proyectos para teoría\05 DataSetProvincias\PresentacionDataSet\bin\Debug\PresentacionDataSet.pdb
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Apuntes\Proyectos para teoría\05 DataSetProvincias\PresentacionDataSet\bin\Debug\CapaDatosDSet.dll
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Apuntes\Proyectos para teoría\05 DataSetProvincias\PresentacionDataSet\bin\Debug\Entidades.dll
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Apuntes\Proyectos para teoría\05 DataSetProvincias\PresentacionDataSet\bin\Debug\CapaDatosDSet.pdb
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Apuntes\Proyectos para teoría\05 DataSetProvincias\PresentacionDataSet\bin\Debug\CapaDatosDSet.dll.config
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Apuntes\Proyectos para teoría\05 DataSetProvincias\PresentacionDataSet\bin\Debug\Entidades.pdb
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Apuntes\Proyectos para teoría\05 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csprojAssemblyReference.cache
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Apuntes\Proyectos para teoría\05 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.Properties.Resources.resources
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Apuntes\Proyectos para teoría\05 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.GenerateResource.cache
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Apuntes\Proyectos para teoría\05 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Apuntes\Proyectos para teoría\05 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.CopyComplete
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Apuntes\Proyectos para teoría\05 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.exe
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Apuntes\Proyectos para teoría\05 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.pdb
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Apuntes\Proyectos para teoría\05 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.FrmConsultasDataSet.resources
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\05 DataSetProvincias\PresentacionDataSet\bin\Debug\PresentacionDataSet.exe.config
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\05 DataSetProvincias\PresentacionDataSet\bin\Debug\PresentacionDataSet.exe
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\05 DataSetProvincias\PresentacionDataSet\bin\Debug\PresentacionDataSet.pdb
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\05 DataSetProvincias\PresentacionDataSet\bin\Debug\CapaDatosDSet.dll
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\05 DataSetProvincias\PresentacionDataSet\bin\Debug\Entidades.dll
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\05 DataSetProvincias\PresentacionDataSet\bin\Debug\CapaDatosDSet.pdb
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\05 DataSetProvincias\PresentacionDataSet\bin\Debug\CapaDatosDSet.dll.config
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\05 DataSetProvincias\PresentacionDataSet\bin\Debug\Entidades.pdb
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\05 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csprojAssemblyReference.cache
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\05 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.FrmConsultasDataSet.resources
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\05 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.Properties.Resources.resources
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\05 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.GenerateResource.cache
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\05 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\05 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.CopyComplete
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\05 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.exe
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\05 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.pdb
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\03 DataSetProvincias\PresentacionDataSet\bin\Debug\PresentacionDataSet.exe.config
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\03 DataSetProvincias\PresentacionDataSet\bin\Debug\PresentacionDataSet.exe
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\03 DataSetProvincias\PresentacionDataSet\bin\Debug\PresentacionDataSet.pdb
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\03 DataSetProvincias\PresentacionDataSet\bin\Debug\CapaDatosDSet.dll
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\03 DataSetProvincias\PresentacionDataSet\bin\Debug\Entidades.dll
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\03 DataSetProvincias\PresentacionDataSet\bin\Debug\CapaDatosDSet.pdb
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\03 DataSetProvincias\PresentacionDataSet\bin\Debug\CapaDatosDSet.dll.config
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\03 DataSetProvincias\PresentacionDataSet\bin\Debug\Entidades.pdb
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\03 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csprojAssemblyReference.cache
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\03 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.FrmConsultasDataSet.resources
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\03 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.Properties.Resources.resources
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\03 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.GenerateResource.cache
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\03 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\03 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.CopyComplete
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\03 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.exe
+G:\Mi unidad\Modulos\2Dam Acceso Datos\Ariketak\00 Teoria\03 DataSetProvincias\PresentacionDataSet\obj\Debug\PresentacionDataSet.pdb
+G:\Mi unidad\Modulos\2Dam Acceso Datos\pdfs Aula0\DataSetProvinciasTeoria\PresentacionDataSet\obj\Debug\PresentacionDataSet.csprojAssemblyReference.cache
+G:\Mi unidad\Modulos\2Dam Acceso Datos\pdfs Aula0\DataSetProvinciasTeoria\PresentacionDataSet\obj\Debug\PresentacionDataSet.FrmConsultasDataSet.resources
+G:\Mi unidad\Modulos\2Dam Acceso Datos\pdfs Aula0\DataSetProvinciasTeoria\PresentacionDataSet\obj\Debug\PresentacionDataSet.Properties.Resources.resources
+G:\Mi unidad\Modulos\2Dam Acceso Datos\pdfs Aula0\DataSetProvinciasTeoria\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.GenerateResource.cache
+G:\Mi unidad\Modulos\2Dam Acceso Datos\pdfs Aula0\DataSetProvinciasTeoria\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Modulos\2Dam Acceso Datos\pdfs Aula0\DataSetProvinciasTeoria\PresentacionDataSet\obj\Debug\PresentacionDataSet.exe
+G:\Mi unidad\Modulos\2Dam Acceso Datos\pdfs Aula0\DataSetProvinciasTeoria\PresentacionDataSet\obj\Debug\PresentacionDataSet.pdb
+C:\Users\unaie\Desktop\2DAM\AccesoDatos\Apunted\DataSetProvinciasTeoria\PresentacionDataSet\bin\Debug\PresentacionDataSet.exe.config
+C:\Users\unaie\Desktop\2DAM\AccesoDatos\Apunted\DataSetProvinciasTeoria\PresentacionDataSet\bin\Debug\PresentacionDataSet.exe
+C:\Users\unaie\Desktop\2DAM\AccesoDatos\Apunted\DataSetProvinciasTeoria\PresentacionDataSet\bin\Debug\PresentacionDataSet.pdb
+C:\Users\unaie\Desktop\2DAM\AccesoDatos\Apunted\DataSetProvinciasTeoria\PresentacionDataSet\bin\Debug\CapaDatosDSet.dll
+C:\Users\unaie\Desktop\2DAM\AccesoDatos\Apunted\DataSetProvinciasTeoria\PresentacionDataSet\bin\Debug\Entidades.dll
+C:\Users\unaie\Desktop\2DAM\AccesoDatos\Apunted\DataSetProvinciasTeoria\PresentacionDataSet\bin\Debug\CapaDatosDSet.pdb
+C:\Users\unaie\Desktop\2DAM\AccesoDatos\Apunted\DataSetProvinciasTeoria\PresentacionDataSet\bin\Debug\CapaDatosDSet.dll.config
+C:\Users\unaie\Desktop\2DAM\AccesoDatos\Apunted\DataSetProvinciasTeoria\PresentacionDataSet\bin\Debug\Entidades.pdb
+C:\Users\unaie\Desktop\2DAM\AccesoDatos\Apunted\DataSetProvinciasTeoria\PresentacionDataSet\obj\Debug\PresentacionDataSet.csprojAssemblyReference.cache
+C:\Users\unaie\Desktop\2DAM\AccesoDatos\Apunted\DataSetProvinciasTeoria\PresentacionDataSet\obj\Debug\PresentacionDataSet.FrmConsultasDataSet.resources
+C:\Users\unaie\Desktop\2DAM\AccesoDatos\Apunted\DataSetProvinciasTeoria\PresentacionDataSet\obj\Debug\PresentacionDataSet.Properties.Resources.resources
+C:\Users\unaie\Desktop\2DAM\AccesoDatos\Apunted\DataSetProvinciasTeoria\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.GenerateResource.cache
+C:\Users\unaie\Desktop\2DAM\AccesoDatos\Apunted\DataSetProvinciasTeoria\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.CoreCompileInputs.cache
+C:\Users\unaie\Desktop\2DAM\AccesoDatos\Apunted\DataSetProvinciasTeoria\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.CopyComplete
+C:\Users\unaie\Desktop\2DAM\AccesoDatos\Apunted\DataSetProvinciasTeoria\PresentacionDataSet\obj\Debug\PresentacionDataSet.exe
+C:\Users\unaie\Desktop\2DAM\AccesoDatos\Apunted\DataSetProvinciasTeoria\PresentacionDataSet\obj\Debug\PresentacionDataSet.pdb
+C:\Users\Josue\source\repos\DataSetProvinciasTeoriaBien\PresentacionDataSet\bin\Debug\PresentacionDataSet.exe.config
+C:\Users\Josue\source\repos\DataSetProvinciasTeoriaBien\PresentacionDataSet\bin\Debug\PresentacionDataSet.exe
+C:\Users\Josue\source\repos\DataSetProvinciasTeoriaBien\PresentacionDataSet\bin\Debug\PresentacionDataSet.pdb
+C:\Users\Josue\source\repos\DataSetProvinciasTeoriaBien\PresentacionDataSet\bin\Debug\CapaDatosDSet.dll
+C:\Users\Josue\source\repos\DataSetProvinciasTeoriaBien\PresentacionDataSet\bin\Debug\Entidades.dll
+C:\Users\Josue\source\repos\DataSetProvinciasTeoriaBien\PresentacionDataSet\bin\Debug\CapaDatosDSet.pdb
+C:\Users\Josue\source\repos\DataSetProvinciasTeoriaBien\PresentacionDataSet\bin\Debug\CapaDatosDSet.dll.config
+C:\Users\Josue\source\repos\DataSetProvinciasTeoriaBien\PresentacionDataSet\bin\Debug\Entidades.pdb
+C:\Users\Josue\source\repos\DataSetProvinciasTeoriaBien\PresentacionDataSet\obj\Debug\PresentacionDataSet.csprojAssemblyReference.cache
+C:\Users\Josue\source\repos\DataSetProvinciasTeoriaBien\PresentacionDataSet\obj\Debug\PresentacionDataSet.FrmConsultasDataSet.resources
+C:\Users\Josue\source\repos\DataSetProvinciasTeoriaBien\PresentacionDataSet\obj\Debug\PresentacionDataSet.Properties.Resources.resources
+C:\Users\Josue\source\repos\DataSetProvinciasTeoriaBien\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.GenerateResource.cache
+C:\Users\Josue\source\repos\DataSetProvinciasTeoriaBien\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.CoreCompileInputs.cache
+C:\Users\Josue\source\repos\DataSetProvinciasTeoriaBien\PresentacionDataSet\obj\Debug\PresentacionDataSet.csproj.CopyComplete
+C:\Users\Josue\source\repos\DataSetProvinciasTeoriaBien\PresentacionDataSet\obj\Debug\PresentacionDataSet.exe
+C:\Users\Josue\source\repos\DataSetProvinciasTeoriaBien\PresentacionDataSet\obj\Debug\PresentacionDataSet.pdb
